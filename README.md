@@ -1,24 +1,20 @@
 <div align="center">
 
-![μFIFA World Cup 2026](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/d5b1180e-f3e3-4e8b-aed8-77c64300dc87)
+![μFIFA World Cup 2026](docs/assets/mufifa-banner.jpg)
 
 </div>
 
 <div align="center">
 
-Welcome to **μFIFA World Cup 2026** - the Festival of Innovation, Fellowship & Achievement by μLearn! This isn't just a challenge - it's a World Cup. You'll represent a **Nation**, play for a **Squad Domain**, and compete on live leaderboards - all while building real work that belongs in your portfolio.
+# Welcome to **μFIFA World Cup 2026** 
+The Festival of Innovation, Fellowship & Achievement by μLearn! This isn't just a challenge, it's a World Cup. You'll represent a **Nation**, play for a **Squad Domain**, and compete on live leaderboards, all while building real work that belongs in your portfolio.
 
-Our mission: surface Kerala's most versatile innovators across Maker, Coder, Designer, and Strategist disciplines - and connect them with each other, with startups, and with the world.
+Our mission: surface Kerala's most versatile innovators across Maker, Coder, Designer, and Strategist disciplines and connect them with each other, with startups, and with the world.
 
 </div>
 
----
-
-# How to Participate
-
+## How to Participate
 ## Step 1: Join the μLearn Community
-
-<img width="432" alt="Register on μLearn" src="./docs/assets/getmu.png">
 
 ### Register on the μLearn Platform
 Join the μLearn Community by registering [here](https://app.mulearn.org/register).
@@ -27,6 +23,8 @@ Join the μLearn Community by registering [here](https://app.mulearn.org/registe
 > This video walks you through creating your μLearn account, joining the Discord server, and getting your MUID - watch it before proceeding!
 
 ## Step 2: Get your MUID
+
+<img width="432" alt="Register on μLearn" src="./docs/assets/getmu.png">
 
 Follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (μLearn User ID).
 
@@ -37,7 +35,7 @@ Follow the onboarding workflow. Connect your Discord account during this process
 The World Cup starts with your profile. Fork this repo, create your player card in the `/profile` directory, and step onto the field.
 
 ### 🍴 1. Fork It!
-Fork [this repository](../../fork) to your own GitHub profile.
+Fork [this repository](https://github.com/gtech-mulearn/mufifa-2026) to your own GitHub profile.
 
 ### 📄 2. Name Your File!
 Create a new Markdown file inside the `/profile` folder, named using your MUID - your squad number for the tournament:
@@ -52,11 +50,11 @@ Use the provided template to build your player profile: [TEMPLATE.md](./TEMPLATE
 ### 🚀 4. Pull It!
 Once ready, open a Pull Request targeting the `main` branch. Your card is now on the pitch!
 
-> 🌟 **Pro Tip:** Study [sachinrajm@mulearn.md](./profile/sachinrajm@mulearn.md) to see what a great μFIFA profile looks like.
+> 🌟 **Pro Tip:** Study [example@mulearn.md](./profile/sachinrajm@mulearn.md) to see what a great μFIFA profile looks like.
 
 ## Step 4: Link Your μLearn Profile Card!
 
-Your profile card is what shows your live karma rank and squad domain progress on the leaderboard. Don't skip this step!
+Your profile card is what shows your live karma rank and squad domain progress on the μLearn leaderboard. Don't skip this step!
 
 ### 🔑 1. Get Your Embed Link
 Head to the [μLearn Discord server](https://discord.com/channels/771670169691881483/1157030408874106991), use the `/get-embed-link` command, and copy the link.

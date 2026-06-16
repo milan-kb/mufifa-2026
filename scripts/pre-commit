@@ -36,7 +36,7 @@ fi
 
 for FILE in $STAGED_PROFILES; do
   # Skip the example profile
-  if echo "$FILE" | grep -qi "example@mulearn"; then
+  if echo "$FILE" | grep -qi -E "example@mulearn|sachinrajm@mulearn"; then
     continue
   fi
 

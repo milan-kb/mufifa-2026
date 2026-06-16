@@ -1,14 +1,14 @@
-**Pull Request Title:** [Your MUID] — μFIFA World Cup 2026
+**Pull Request Title:** [Your MUID] - μFIFA World Cup 2026
 
 ### My Squad Details
 
 - **FIFA Nation:** [Country you're representing]
-- **Guild(s):** [Maker / Coder / Designer / Leader — all that apply]
+- **Squad Domain(s):** [Maker / Coder / Designer / Strategist - all that apply]
 - **World Cup Prediction:** [Which Nation wins μFIFA 2026?]
 
 ### Profile Checklist
 
-Tick what you've filled in. If a section is empty because you're just starting out, that's okay — write what you're planning to do instead.
+Tick what you've filled in. If a section is empty because you're just starting out, that's okay - write what you're planning to do instead.
 
 **⚽ FIFA World Cup Corner**
 - [ ] My Nation & Why
@@ -46,4 +46,4 @@ Add any additional context, links, or notes here.
 
 ---
 
-Welcome to the pitch. μFIFA World Cup 2026 — Festival of Innovation, Fellowship & Achievement. 🏆
+Welcome to the pitch. μFIFA World Cup 2026 - Festival of Innovation, Fellowship & Achievement. 🏆

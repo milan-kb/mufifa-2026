@@ -30,7 +30,7 @@ jobs:
           # Find all profile/*.md files changed in this PR
           FILES=$(git diff --name-only origin/${{ github.base_ref }}...HEAD \
             | grep -i '^profile/.*\.md$' \
-            | grep -iv 'example@mulearn' \
+            | grep -ivE 'example@mulearn|sachinrajm@mulearn' \
             || true)
 
           echo "files<<EOF" >> $GITHUB_OUTPUT
@@ -46,7 +46,7 @@ jobs:
       - name: Skip if no profile files changed
         if: steps.changed.outputs.no_profiles == 'true'
         run: |
-          echo "No profile files changed in this PR — skipping validation."
+          echo "No profile files changed in this PR - skipping validation."
 
       - name: Validate profile files
         if: steps.changed.outputs.no_profiles == 'false'
